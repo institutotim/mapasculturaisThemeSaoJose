@@ -1,5 +1,5 @@
 <?php
-namespace SaoJose;
+namespace mapasculturaisThemeSaoJose;
 use MapasCulturais\Themes\BaseV1;
 use MapasCulturais\App;
 
